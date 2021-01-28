@@ -73,24 +73,28 @@ manifesto_df['language'] = manifesto_df.file_name.str.extract(r'(\[(\w+?)\])')[1
 manifesto_df['language'].fillna('EN', inplace=True)
 
 # Add description and document_type to primary sources
-mdf_primary = manifesto_df[manifesto_df['source_type'] == 'primary']
+mdf_primary = manifesto_df[manifesto_df['source_type'] == 'primary'].copy()
 splits = mdf_primary.file_name.str.rsplit('.', 1, expand=True)[0].str.split('_', expand=True)
 mdf_primary['description'] = splits[0]
 mdf_primary['document_type'] = splits[1]
 mdf_primary['author'] = [None] * len(mdf_primary)
 
 # Add author, description, and document type to secondary sources
-mdf_secondary = manifesto_df[manifesto_df['source_type'] == 'secondary']
+mdf_secondary = manifesto_df[manifesto_df['source_type'] == 'secondary'].copy()
 splits = mdf_secondary.file_name.str.rsplit('.', 1, expand=True)[0].str.split('_', expand=True)
-mdf_secondary['description'] = list(splits[1])
-mdf_secondary['document_type'] = list(splits[2])
-mdf_secondary['author'] = list(splits[0])
+mdf_secondary['description'] = splits[1]
+mdf_secondary['document_type'] = splits[2]
+mdf_secondary['author'] = splits[0]
 
 # rejoin
 manifesto_df = pd.concat([mdf_primary, mdf_secondary], axis = 0)
 
 # convert 'None' strings to NaN
 manifesto_df.replace(to_replace=['None', None], value=np.nan, inplace=True)
+
+# Convert dates and add year
+manifesto_df['date'] = pd.to_datetime(manifesto_df['date'])
+manifesto_df['year'] = pd.to_datetime(manifesto_df['date']).dt.to_period('Y')
 
 # Add file_path column
 manifesto_df['file_path'] = ['/'.join(i) for i in zip(manifesto_df['country'], 
@@ -99,7 +103,7 @@ manifesto_df['file_path'] = ['/'.join(i) for i in zip(manifesto_df['country'],
                                                       manifesto_df['file_name'])]
 
 # reorder columns
-cols = ['country', 'group', 'date', 'source_type', 'document_type', 
+cols = ['country', 'group', 'date', 'year', 'source_type', 'document_type', 
         'description', 'author', 'language', 'file_path', 'file_name',
         'file_type',]
 manifesto_df = manifesto_df[cols]

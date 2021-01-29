@@ -105,7 +105,7 @@ manifesto_df['file_path'] = ['/'.join(i) for i in zip(manifesto_df['country'],
 # reorder columns
 cols = ['country', 'group', 'date', 'year', 'source_type', 'document_type', 
         'description', 'author', 'language', 'file_path', 'file_name',
-        'file_type',]
+        'file_type']
 manifesto_df = manifesto_df[cols]
 
 # save object

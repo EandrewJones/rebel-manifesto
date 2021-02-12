@@ -1,0 +1,52 @@
+
+The Popular Front for the Liberation of Palestine marked Martyrs’ Day in the Gaza Strip on March 12 at an event commemorating the lives and struggles of the martyrs of the PFLP and the Palestinian revolution.
+Comrade Hiba Abdel Karim opened the event, recalling the life and struggle of Guevara Gaza, Mohammed al-Aswad, member of the Political Bureau and military leader of the Front in Gaza in the 1960s. She also saluted the life and struggle of the martyr Omar Nayef Zayed, assassinated in the Palestinian embassy in Bulgaria on February 26 of this year.
+Comrade Jamil Mizher, member of the Political Bureau of the Front and leader of its Branch in Gaza, gave the main speech at the event, saluting the participants on behalf of Comrade Ahmad Sa’adat, the imprisoned General Secretary of the Front.
+Reviewing the experience of Guevara Gaza, he said that he and his comrades’ experience in the Gaza Strip had profound implications for the Palestinian cause and the development of the modern Palestinian revolution after the defeat of June 1967. One of the most lasting lessons of this experience of struggle was the leadership of Guevara Gaza and his comrades in serving the people and building a deep relationship with the popular masses while at the same time engaging in powerful military action and confrontation of the Zionist enemy.
+He discussed the current intifada in Palestine in its sixth month and the role of youth in escalating the intifada by all means, saying that there is a need for a political incubator of the intifada to support its development and respond to all attempts to stop it. Mizher urged the convening of a comprehensive national meeting to formulate national strategy with a concrete action plan to support the intifada, including the rehabilitation of armed resistance as a critical option in the support of the intifada.
+He denounced the actions of the Palestinian Authority leadership in persisting both on the path of negotiations and of security coordination with the occupation, calling attention in particular to the degradation of Palestinian institutions, especially the embassies abroad, pointing to the case of Omar Nayef Zayed.
+Mizher said that the cowardly assassination of Nayef was shocking and unepected, saying that the incident emphasizes the negligence, dereliction of duty, and complicity of the ambassador and the PA Foreign Ministry. He urged the resignation of Foreign Minister Riyad al-Malki and the trial and prosecution of Ambassador Ahmad al-Madhbouh.
+“The Zionist Mossad bears responsibility for this crime and is the first beneficiary. At the same time, we cannot ignore the complicity of the embassy, the ambassador and the Foreign Ministry, and we reassure the comrades and the family of the martyred comrade and the Palestinian masses that we will be faithful to the blood of the martyr….We will continue to confront the rampant corruption in the Palestinian embassies and institutions, to clear them entirely of conspirators against our people,” said Mizher.
+He also addressed the listing of Hezbollah as a so-called “terrorist organization” by reactionary Arab regimes, saying that this listing is worthless and is only an honor to Hezbollah, and is primarily an act in the interests of the Zionist entity. The whole world can see that Hezbollah organizes resistance to the Zionist entity, while the Saudi regime and its allies is the opposite and a primary source of takfiri plots against the people of the region, said Mizher.
+Furthermore, he said, the target of this action is not Hezbollah alone but resistance to Zionism and the Palestinian cause, which is the central cause of the Arab people. “Reactionary Arab regimes, at their head the Saudi Kingdom, are in real trouble on the Syrian front…their war and aggression is failing in Yemen where it has accomplished nothing but to kill children, women and elders…and now it is decided to consider Hezbollah a terrorist organization, a clear reference that the Saudi regime are losing in all of their criminal plans to implement imperialist schemes to divide the Arab world and benefit the Zionist project,” said Mizher.
+Comrade Hamza Al-Nayef, brother of the martyr Comrade Omar Nayef Zayed, spoke via audio to the event, saying that the case of the martyr is not a family issue only but a Palestinian national issue, to hold accountable the perpetrators, because Omar is first and foremost the son of the Palestinian people. He said that the martyr was subjected to ongoing harassment and threats from the embassy, and that the ambassador completely abandoned his duty to provide security for the comrade.
+He noted that the family is urging the formation of a new national commission of inquiry composed of releant professionals to truly investigate the crime against the martyr, and concluded by calling on all to follow in Omar’s footsteps and high principles and commitment to Palestine and its liberation.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

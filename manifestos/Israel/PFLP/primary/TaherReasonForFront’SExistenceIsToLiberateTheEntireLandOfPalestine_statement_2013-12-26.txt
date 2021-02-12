@@ -1,0 +1,57 @@
+
+The Popular Front for the Liberation of Palestine in Saida, Lebanon, commemorated the 46th anniversary of its founding in an event attended by representatives of Palestinian and Lebanese political forces and popular organizations, and members, friends and supporters of the Front.
+Dr. Osama Saad of the Popular Organization of Nazareth congratulated the Front on the occasion and saluted the Palestinian people under occupation in the homeland and everywhere. He noted that the Arab nation today faces existential threats to its identity and survival, including sectarian conflicts that aim to tear the social fabric of Arab countries as reactionary forces do all in their power to promote strife with money and weapons in order to trap the resistance. He added that reactionary and sectarian organizations that hide behind the guise of religion are the destructive tools of state powers for the purpose of liquidating the Palestinian cause and nsure the security of the Zionist entity.
+Zionist settlement in the West Bank and Jerusalem is increasing rapidly while the US administration attempts to impose a settlement, and the Palestinian Authority ignores the minimum national rights of the Palestinian people, Saad said. Finally, he greeted the Popular Front and the martyrs, prisoners and freedom fighters, expressing his hope that the Seventh Conference of the Front will be a quantum leap in the Palestinian struggle for the development and renewal of political, intellectual and organizational and combative aspects of struggle.
+The keynote address was delivered by Comrade Dr. Maher al-Taher, member of the Political Bureau of the PFLP and leader of its branch in exile, greeted the occasion on behalf of the Central Committee and the Political Bureau, and imprisoned General Secretary Ahmad Sa’adat. He said the reason for the existence of the Popular Front is the liberation of Akka, Haifa, Yafa, Nazareth, Lydda and the entire land of Palestine, not “two states for two peoples,” and that the Front will never recognize the entity that usurped our land and displaced our people.
+The Popular Front will not recognize the Zionist entity for any reason and does not in any way, Taher said, emphasizing that the goal is to liberate the entire land completely, and without this purpose there is no justification for the Front’s existence. He added that the Palestinian cause is an Arab struggle and not Palestinian only and that Palestine cannot be liberated without the Arab dimension to the Palestinian national liberation movement. He said that it is thhe task of the Palestinian people and the Arab nation as a whole to defeat any and all attempts to isolate the Palestinian cause from the Arab context, noting that the survival of the Zionist entity is promted by the presence of complicit Arab regimes.
+He noted that the Oslo accords came to recognize the existence of the Zionist entity, entering the Palestinian cause into a dark tunnel and directly undermining the PLO charter. Speaking to the key role of the Palestinian people in diaspora, Taher said that today the diaspora is facing cold, hunger, drowning and a deep rift between the people and the leadership, a weak reference, and the state of the Palestinian people everywhere has become one of suffering and imprisonment. This confirms the impossibility of reaching a political agreement with the Zionist entity – they have achieved their goals through negotiations and they want to see a divided, controlled Palestinian entity. Facing this political crisis, Taher said, we must evaluate the history of the Palestinian political situation, see where we have gone wrong and raise instead a program and vision for the liberation of Palestine by all means, particularly through armed struggle and re-establishing the Arab dimension of the Palestinian cause.
+Taher said that the Seventh Conference of the Front discussed a political document, political program, and amendments to procedural rules, with an emphasis on the premises and vision of the Popular Front and the fulfillment of the political line established by the founder George Habash and the leaders and martyrs Abu Ali Mustafa, Abu Maher Yamani, Wadie Haddad, Ghassan Kanafani and all of the martyrs for the liberation of Palestine. The General Central Committee and the Supervisory Board were elected directly by the Conference as well.
+He saluted the prisoners, at their head the General Secretary Ahmad Sa’adat, and pledged to remain faithful to the martyrs, the prisoners, and the goal of the liberation of the entire land of Palestine.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,38 @@
+
+The Front alerts all of its cadres and organizations to act to serve the people in the affected areas in Gaza
+The winter rainstorms that have returned to trouble the people in various areas in the Gaza Strip, come in addition to the calamities suffered by our people, especially following the Zionist aggression on Gaza and the resulting disruption and destruction impacting various aspects of life in the Strip, said the Popular Front for the Liberation of Palestine. There are severe problems of homelessness, displacement, destroyed homes, an electricity crisis, unemployment and extreme poverty, and now, the new problem, the flooding of the homes of thousands in low-lying areas in Gaza, Beit Hanoun, Central and South Gaza and disruption in sewage pumping due to the intensity of the rain and the heavy flooding. This has been particularly intense in what is known as the “tunnel” area in Sheikh Radwan and has further impacted many displaced people living in shelters, or who have been living in their partially destroyed homes.
+The PFLP calls on all official agencies of the government, the civil defense, the relief agencies and the municipalities, hospitals, health centers and the National and Islamic Forces to declare a state of emergency to take action to help people facing the flooding of their homes, and assist displaced and affected people immediately and without delay.
+The Front also calls upon the national reconciliation government and civil defense crews and municipalities to solve the problem of sewage pumps in the Sheikh Radwan area so as to not result in a major disaster.
+We urge the masses of our people to strengthen bonds of solidarity and collect emergency aid to support people affected, including clothing and blankets, to work to alleviate their suffering. Fateh and Hamas bear a major responsibility in the aggravation of these problems, by prioritizing bickering over fault at the expense of our people and their suffering, noted the Front.
+The Front commits to mobilize all of its members and institutions to support affected people throughout Gaza and to bear its national responsibilities. It urges the consensus government to act to alleviate the suffering of our people and escalate the pressure to end the siege on Gaza and fully open all of the crossings to address one of the key sources of these problems.
+The PFLP and Palestinian Progressive Youth Union joined in and organized relief efforts in Sheikh Radwan and in eastern Gaza, ferrying people who were flooded in from the area and distributing blankets, clothing and coats for the cold weather. Comrade Basil Atawneh noted that the humanitarian situation is severe and worsened considerably by the flooding and cold. He pointed to the need for immediate reconstruction and ending the obstacles that have been placed in the path of the people, stressing the absolute rejection of the “Serry plan” that seeks to legitimize and administrate the siege on Gaza, deny Palestinian self-determination and delay reconstruction. “The Front will do all it can with all of its efforts to achieve a decent life for our people,” Atawneh said.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+ 

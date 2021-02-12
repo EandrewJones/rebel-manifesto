@@ -1,0 +1,65 @@
+
+Dozens of students and youth from the Progressive Palestinian Youth Union and the Progressive Student Action Front gathered demanding the fall of Oslo on September 15, 2013 in Gaza City, marking the twentieth anniversary of the signing of the treacherous Oslo agreement.
+The participants raised signs and banners demanding an end to negotiations and security cooperation with the occupation, saying that the Oslo accords constituted a blow to the people’s struggle and confrontation of the Zionist enemy, and the suppression of the valiant Intifada, an insult to the blood of the martyrs and the suffering of the prisoners.
+The Progressive Youth Union said in a statement that “The Oslo agreement is an attempt to transform the Palestinian national project to a proxy security agency of the Zionist occupation, to provide free recognition to the Zionist entity, and creating an Authority originated under this agreement to play the role of security coordination and security enforcement that serves only the brutal Zionist occupier.”
+“The passage of 20 years on the Oslo agreement should open our eyes to the failed path of negotiations, which provide cover for the occupier as it continues its crimes against our people, the siege, settlement, and Judaization of the land, thousands of our people in prison, and repeated massacres. The decision of the PLO leadership to return to these negotiations violated the Palestinian national consensus once again, threatening the rights of our people and disrespecting the blood of the martyrs,” said the Union.
+Participants in the action said that the rights of the Palestinian people may not be negotiated away under any circumstances, despite any challenges, domestic, regional, or international, and whatever funding is promised or however sits the balance of power. They rejected any settlement being imposed upon the Palestinian people.
+They said that as youth they shoulder the primary role in combatting the enemy and the colonialist forces that continue their aggression against the Palestinian people and the Arab nation. They demanded a total national return to the base of resistance, abandoning illusions about the pseudo-Authority, or that there can be any sovereignty and dignity without liberating the land and achieving our rights. The only option is resistance to push back the aggression, liberate the land, and achieve self-determination and Palestinian rights, particularly the right of return of refugees.
+At the end of the action, youth burned a coffin representing the dead Oslo agreement, chanting “Down with Oslo” and for Palestine and the right of return.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

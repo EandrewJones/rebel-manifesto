@@ -1,0 +1,132 @@
+
+Events and activities marking the 47th anniversary of the founding of the Popular Front for the Liberation of Palestine continued inside and outside Palestine:
+On December 22, the Progressive Student Action Front in Tulkarem celebrated the PFLP’s 47th anniversary with a ceremony of support and honor for martyrs and prisoners. Comrade Mohammed Jawabreh noted that the martyrs and prisoners sacrificed so greatly for the dignity and liberation of the Palestinian people and the return of Palestinian refugees to their homeland.
+
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+**
+On December 19, members and supporters of the PFLP marched in Balata refugee camp near Nablus, marking the anniversary. Comrade Maher Harb called for national unity to struggle and confront the occupier, and for rebuilding the Palestine Liberation Organization on a national, inclusive and democratic basis to represent the Palestinian people and defend their cause. He called for building stronger popular campaigns to free Palestinian political prisoners in Israeli jails.
+
+			#gallery-2 {
+				margin: auto;
+			}
+			#gallery-2 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-2 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-2 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+**
+The PFLP marked its 47th anniversary in Algeria on December 19 at its office in Algiers, with members of the Palestinian community in Algeria, representatives of Palestinian and Algerian parties, Algerian academics and media, and Palestinian students and youth. Comrade Salah Mohammed, representative of the PFLP, spoke, as did Comrade Yousef of the Workers Party of Algeria.
+Comrade Mohammed spoke aout the need to permanently put an end to the path of Oslo and negotiations and to reject the actions of the United States that attempt to undermine growing international support for the Palestinian people. He saluted the Palestinian resistance and the accomplishments and steadfastness of the Palestinian people despite the vicious Zionist aggression.
+**
+The Union of Palestinian Women’s Committees in Beit Hanoun organized a reception to commemorate the 47th anniversary of the PFLP. Comrades Haniya Sahwil and Medhat Za’anin spoke at the event, noting the Front’s commitment to the path of struggle of the martyrs and prisoners who have sacrificed so much for Palestine, and the contributions of Palestinian women in all aspects of struggle and resistance, including the history of the Front.
+
+			#gallery-3 {
+				margin: auto;
+			}
+			#gallery-3 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-3 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-3 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+**
+A reception was held in the Lebanese Press Syndicate in Beirut on December 23, marking the 47th anniversary of the Front’s founding, where Comrade Abu Ahmad Fouad, Deputy General Secretary of the PFLP, spoke to an audience of PFLP leaders, cadres and members, representatives of Palestinian and Lebanese political forces, and supporters.
+Comrade Abu Ahmad Fouad recalled the history of the PFLP, its origins in the Arab Nationalist Movement, and its clear vision since its founding that all of Palestine is part of the Arab nation and that the Palestinian and Arab people must liberate all of Palestine through struggle, primarily armed struggle and the protracted people’s liberation war. He noted the importance of Palestinian national unity to achieve victory, noting also that the Palestinian revolution stands at the heart of the Arab and international liberation movements. The Front at its founding identified the camp of friends of the revolution and the camp of enemies – and the Front remains committed to the principles on which it was founded, noted Fouad.
+He reiterated the Front’s categorical rejection of the project of the Palestinian Authority and the “French initiative” to submit a draft resolution to the UN Security Council, noting that this draft violates the Palestinian national constants and is actually an attempt to resume the absurd and dangerous negotiations and to undermine Palestinian national rights. “We reject this project. Any potential draft to be submitted to international institutions, including the General Assembly and the Security Council, must be reviewed fully and supported by all of the Palestinian factions and mass institutions without exception. The Zionist entity, the Arab regimes and the United States are working together to attempt to liquidate the Palestinian cause amid the circumstances of crisis prevailing in the region and the Arab world. We refuse to accept these projects. Instead, we must be demanding that the United Nations apply its existing resolutions,” said Fouad.
+He urged an immediate end to the security coordination of the Palestinian Authority with the Zionist occupier. It is deeply damaging to the Palestinian people and cause. “Palestinian security services should have the role of protecting our people throughout Palestine, not working with the occupier,” he said.
+He denounced any attempts by reactionary armed groups to enter the Palestinian refugee camps in Lebanon, noting that this is an attempt to damage Palestinian interests and the Palestinian cause, and reiterated the complete rejection of such groups by the Palestinian resistance forces. Further, he called upon the Lebanese state to remove the obstacles, discrimination, infringements of rights and injustices that Palestinian refugees face inside Lebanon, saying that Palestinian refugees have the right to live decent lives on the road to return to Palestine. “We will return, whether sooner or later, we will return to Palestine,” said Fouad.
+
+			#gallery-4 {
+				margin: auto;
+			}
+			#gallery-4 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-4 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-4 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+ 

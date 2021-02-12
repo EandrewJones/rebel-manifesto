@@ -1,0 +1,40 @@
+
+“The arrest of struggler and parliamentarian of the Popular Front for the Liberation of Palestine bloc, Comrade Khalida Jarrar, is a legal and moral violation that blatantly reflects the fascist character of the occupation and its ongoing failure to break the will of our people through its attacks on Palestinian elected representatives, leaders, and national institutions,” said Comrade Marwan Abdel-Al, leader of the PFLP in Lebanon, at a protest in Beirut on March 2 in solidarity with imprisoned Palestinian leaders, Comrade Ahmad Sa’adat and Marwan Barghouti. The protest took place outside the International Committee of the Red Cross building in Beirut, organized by the National Committee for the Defense of Prisoners in Israeli Jails.
+Abdel-Al saluted Comrades Ahmad Sa’adat and Ahed Abu Ghoulmeh and their comrades on the anniversary of their abduction from the Palestinian Authority’s Jericho Prison, along with the struggler Fuad Shobaki, noting that this anniversary highlights the role of the international imperialist parties who collaborated with the occupation as well as the PA security coordination that must be ended once and for all. He also saluted the strugglers organizing within the prisons to resist solitary confinement and occupation.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

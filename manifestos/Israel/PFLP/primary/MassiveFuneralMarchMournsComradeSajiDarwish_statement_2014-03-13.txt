@@ -1,0 +1,49 @@
+
+Comrade Saji Sayel Darwish was killed by occupation military forces on Monday, March 10. He was a student at Bir Zeit University’s school of journalism and media.
+Saji Darwish’s family, fellow students at Bir Zeit University and a large crowd of people joined the funeral for the martyr Comrade Saji Darwish, 20, who was killed by occupation forces on the evening of March 10. His funeral procession passed from the Ramallah Hospital to Bir Zeit University, where his fellow students awaited the martyr, and then to his hometown where his family bid him farewell before he was buried in the village cemetary.
+The leaders, cadres and members of the PFLP participated in the funeral as did a large crowd of students and leaders of the national and Islamic forces.
+As they carried the martyr on their shoulders the funeral procession vowed to resist the occupation and to end security coordination.
+The funeral procession carried the Palestinian flag and banners of the PFLP.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

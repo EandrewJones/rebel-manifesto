@@ -1,0 +1,91 @@
+
+The Popular Front for the Liberation of Palestine responded to new attacks on its sustainability by Palestinian Authority president Mahmoud Abbas at a mass rally and march in Gaza City on Tuesday, April 12.
+Masses of Palestinians marched from the Saraya field to the Square of the Unknown Soldier in Gaza City, marking Palestinian Prisoners’ Day and 40 days on the martyrdom of the former prisoner and leader Comrade Omar Nayef Zayed in the Palestinian embassy in Bulgaria. The event drew large crowds of participants including leaders, cadres and members of the Front and the Palestinian people.
+The march began with fighters carrying symbolic coffins representing the martyrs whose bodies remain imprisoned by the occupation as well as the martyr Omar Nayef Zayed. Marchers denounced the role of the Palestinian Authority in security coordination and burned posters of PA President Mahmoud Abbas, demanding his immediate resignation.
+Comrade Hussein Mansour, member of the Central Committee of the PFLP, gave the keynote speech at the rally. On the issue of Mahmoud Abbas’s individual decision to cut off the Palestine Liberation Organization’s regular and mandated allocations to the PFLP, he emphasized that this was an individual and arbitrary action that undermines the PLO and the Palestinian National Council and is a miserable policy of revenge that will not succeed in extorting the Front to change its political positions. These funds are part of the Palestinian National Fund and support the families of the martyrs and prisoners of the Front; they are not individual funds nor does Abbas have the right to allocate or remove those funds, which belong to the Palestinian people and all Palestinian parties and not Mahmoud Abbas.
+“We say loudly and clearly that the blood of the martyr Omar Nayef Zayed is not up for bargaining. The revolutionary positions of the Popular Front are not for sale. We will continue to confront the occupation and all of those who engage in security coordination and concede the rights of the Palestinian people,” said Mansour.
+All Palestinian factions in the Gaza Strip, including Hamas, Islamic Jihad, the Democratic Front and others, excepting Fateh, signed on to a statement of the National and Islamic Forces in Gaza denouncing the stripping of funds to the Front, declaring it a “clear violation of the statutes of the Palestine Liberation Organization, inconsistent with Palestinian traditions….that deepens the crisis of the national institutions of the Palestinian people.”
+Comrade Kayed al-Ghoul, member of the Political Bureau of the PFLP, said that the decision came in retaliation to the Front’s firm opposition to PA security coordination with Israel and its denunciation of Abbas’s infamous interview with Israeli television bragging about suppressing Palestinian resistance. He noted that this was far from the first time that this had occurred, noting that Abbas had previously cut these funds as attempted “punishment for PFLP political opposition.” PFLP leaders reiterated calls for Abbas to resign following the interview, in which he pledged his full commitment to security coordination with the occupation, a devastating policy targeting the resistance and imprisoning and killing Palestinians. Furthermore, the Front has clearly demanded accountability from PA officials, including Foreign Minister Riyad al-Malki and Ambassador Ahmad Al-Madhbouh for the killing of Comrade Omar Nayef Zayed inside the Palestinian embassy in Bulgaria. Thus, the cut of funds is a desperate attempt to silence Palestinian voices that demand an end to the PA, the Oslo accords, and their infamous cooperation with the occupation in the oppression and imprisonment of Palestinians.
+Further in his speech, Mansour emphasized the Front’s commitment to liberate the prisoners who were and are on the front line of resistance and struggle against the occupier, and who built within the prison walls a revolutionary school.
+He saluted the martyrs of the prisoners’ movement who fell in the struggle for liberation, and the thousands of prisoners struggling behind bars, led by Comrade Ahmad Sa’adat, Khalida Jarrar, Ahed Abu Ghoulmeh, Marwan Barghouti, Jamal Abu al-Hija and Lina Jarbouni.
+He also saluted the prisoners of Jerusalem and Occupied Palestine ’48, some in prison for over 30 years, including the leaders Walid Daqqa, Ibrahim Bayadseh, Rushdi Hamdan Abu Mokh, Ibrahim Abu Mokh, and the Arab prisoners of the occupied Golan, and all of the strugglers imprisoned by imperialism in international prisons, led by Georges Ibrahim Abdallah, and all political prisoners in Arab prisons.
+He emphasized that releasing the prisoners is a national priority and a just cause, they are freedom fighters for national liberation who resist the theft of Palestinian land and the war on the Palestinian people. He also spoke about the occupation’s imprisonment of the bodies of the martyrs, emphasizing that it is a desperate attempt to pressure the Palestinian people to stop the intifada. He saluted the families of the martyrs who are struggling to recover the bodies of their children and refuse to concede to all pressures.
+Mansour also emphasized that the Front will continue to pursue the crime of the killing of the martyr Omar Nayef Zayed, saying that the Front will hold accountable those responsible and their accomplices. He demanded that the commission of inquiry expedite their work to uncover those responsible and those complicit, including the Foreign Minister Riyad al-Malki and Ambassador Ahmad Al-Madhbouh.
+For her part, the struggler Wafa Abu Ghoulmeh, activist and wife of imprisoned leader Ahed Abu Ghoulmeh delivered a speech remotely, saluting the comrades and the struggles of the prisoners in Israeli jails. She called for international isolation, prosecution and boycott of the occupation state and holding its leadership accountable for their heinous crimes against the Palestinian people. She saluted the martyrs and pledged to continue on their path of struggle and steadfastness, and to support their families, particularly noting the role of those whose homes have been demolished or whose children’s bodies have been imprisoned by the occupation.
+She described the imprisonment of the bodies of the martyrs as a crime that emphasizes the racist nature of the Zionist state, calling for action on this issue at human, legal, and resistance levels and through media campaigns.
+She urged popular action on Palestinian streets against the crimes of the occupation and their attacks on the prisoners and martyrs. She emphasized that the issue of the martyred freedom fighter Omar Nayef Zayed is the cause of the Palestinian people, and that those who are involved and complicit in this crime must be exposed before the Palestinian people and held accountable.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

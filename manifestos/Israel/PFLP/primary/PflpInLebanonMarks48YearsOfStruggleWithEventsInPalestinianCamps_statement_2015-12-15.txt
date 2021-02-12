@@ -1,0 +1,190 @@
+
+The Popular Front for the Liberation of Palestine continued the commemoration of its 48th anniversary with events in Palestinian refugee camps throughout Lebanon.
+In the north of Lebanon, the PFLP held a mass rally in Nahr al-Bared camp, widely attended by the people of the camp, members, cadres and supporters of the Front, and members of political parties and social and cultural institutions.
+Comrade Fathi Abu Ali opened the event, speaking about the history of the Front and the current rising intifada. Mohammed Bashir, of the Communist Party of Lebanon, spoke, saluting the front as a “revolutionary organization which has from its first day adopted the option of armed struggle and the commitment to liberate Palestine from the river to the sea.” He saluted the Palestinian people and their heroic intifada.
+Comrade Marwan Abdel-Al, leader of the Front’s branch in Lebanon, gave the keynote speech at the event, focusing on the rising intifada in Palestine, emphasizing the need for a breakthrough in the Palestinian national movement that is equal to the commitment and sacrifices of the people and to “estalish a new and authentic vision that surpasses that of Oslo and division and confronts the occupier.” He also focused on the situation of Palestinians in Lebanon, emphasizing that the core of the struggle is the right of return for Palestinian refugees. He noted the crisis faced by Palestinians in Lebanon, including the financial crisis of UNRWA which is, he noted, not natural but manufactured in order to liquidate the situation of Palestinian refugees. He noted that improving the material conditions of Palestinian refugees and recognizing their human and civil rights within Lebanon is central to empowering their role in the Palestinian liberation movement and the struggle for return.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+**
+In Wadi Zeyna, the PFLP held a public festival commemorating the 48th anniversary. Comrade Intisar al-Dannan opened the event, speaking about the rising intifada in Palestine that refuses to be broken and the anniversary of the Front.
+Comrade Abu Jaber Loubani, member of the Central Committee of the Front, gave the keynote address, emphasizing that the anniversary is an opportunity for reviewing the history and present of the Front. He discussed the current uprising in Palestine as a rejection of the path of negotiations and Oslo, which has been disastrous for the Palestinian people for 22 years.
+
+			#gallery-2 {
+				margin: auto;
+			}
+			#gallery-2 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-2 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-2 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**
+The PFLP held a commemoration in Bourj al-Barajneh camp outside Beirut, with the participation of various Palestinian and Lebanese political organizations as well as special guests Nariman and Ahed Tamimi, visiting Lebanon from Palestine.
+Comrade Hisham al-Zaatar opened the event, followed by a greeting from Ahed Tamimi, the Palestinian teenager from occupied Palestine, who spoke about the importance of national unity for the Palestinian people and the achievements of Palestinian rights.
+Speakers from the Bourj al-Barajneh municipality, the Palestine Liberation Organization in Lebanon and the Nasserite Movement spoke, saluting the role of the Popular Front in supporting Palestinian unity and emphasizing the situation of Palestiians in Lebanon.
+Comrade Abu Jaber Loubani gave the keynote speech at the event, emphasizing the Front’s commitment to struggle for the liberation of Palestine and urging action on the rights of Palestinian refugees in Lebanon.
+
+			#gallery-3 {
+				margin: auto;
+			}
+			#gallery-3 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-3 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-3 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**
+The PFLP in Shatila camp commemorated the 48th anniversary with a march through the streets and alleyways of the camp, accompanied by a solidarity delegation from Brazil and Chile.
+Comrade Fuad Daher spoke at the event, saluting Comrade Ahmad Sa’adat, the imprisoned Geneeral Secretary of the Front. He emphasized the need for a unified Palestinian reference in the camps in Lebanon to march toward liberation and return. The marchers carried wreaths to the gravesites of martyrs in Shatila camp, drumming and carrying Palestinian flags and PFLP banners.
+
+			#gallery-4 {
+				margin: auto;
+			}
+			#gallery-4 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-4 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-4 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**
+A delegation of the Front’s leadership in Lebanon laid wreaths at the grave sites of the founding leaders of the Front in Beirut on December 10.
+Comrade Marwan Abdel-Al spoke as the wreaths were laid, saluting the martyrs of the Front and the martyrs of Palestine, pledging to remain on the path of struggle and resistance until the liberation of Palestine and the return of the refugees.
+
+			#gallery-5 {
+				margin: auto;
+			}
+			#gallery-5 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-5 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-5 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+ 

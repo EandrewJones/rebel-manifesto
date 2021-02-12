@@ -1,0 +1,43 @@
+
+The Popular Front for the Liberation of Palestine in central Gaza marched last night, 3 October, demanding victory for our Palestinian people in Jerusalem and in the West Bank, fighting Zionist soldiers and settlers.
+The march began from the roundabout of Nuseirat refugee camp, winding through the streets and alleys of the camp, with the participation of people of the camp as well as cadres and members of the Front. Children and youth who participated in the “Vanguards of Return” summer camps also joined the march carrying banners and shouting slogans condemning the Zionist attacks on Jerusalem, vowing that they will not be silent in the face of these assaults.
+Comrade Abu Abed spoke on behalf of the PFLP, saying that this march is part of a number of actions to support our people in Jerusalem who are confronting fierce Zionist attacks and to resist any attempts to fragment the Palestinian cause. He urged an emergency meeting of the PLO provisional leadership framework to ensure the participation of all Palestinians in confronting the Zionist attack. Addressing the occupier, he declared that the heads of the Palestinian people will not bow, that the goal of our people to return will be realized, and that Jerusalem is the eternal Palestinian capital, and that the Palestinian people will not deviate from our compass toward liberation and return.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

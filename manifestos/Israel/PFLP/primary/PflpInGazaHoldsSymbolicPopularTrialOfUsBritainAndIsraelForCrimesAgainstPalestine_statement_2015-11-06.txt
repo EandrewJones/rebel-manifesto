@@ -1,0 +1,59 @@
+
+The Prisoners’ Committee of the Popular Front for the Liberation of Palestine in the Gaza Strip held a symbolic trial of Britain, the United States and the Zionist state on November 2, marking the anniversary of the notorious Balfour declaration. Convening in front of the headquarters of the International Committee of the Red Cross, the event put the British, US and Zionist states in the dock on charges of committing a series of crimes against the Palestinian people, ongoing to the present day.
+In particular, the trial confirmed the responsibility of Britain for the displacement and colonization of Palestine and the Palestinian people, noting the 1917 message sent by British Foreign Minister Arthur Balfour stating that Britain would establish a “national home
+for the Jewish people” in Palestine, despite his obvious knowledge of the falsehood of the “land without a people for thepeople without a land” mythology used to justify the colonization of Palestine, uproot a people from their homeland and commit heinous crimes.
+The popular trial also condemned the Zionist crimes against our people: killing, mass terror, home demolitions, racism and apartheid, unjust arrests and imprisonment, as well as the role of U.S. imperialism in supporting and serving as a full partner in the actions of the Zionist state politically, economically and militarily, and in all international institutions.
+At the end of the trial, the judge announced that this hearing will not close until these defendants are forced to undergo a real fair trial in open court and the achievement of the goals of our people, the liberation of all of the land of Palestine and the dismantlement of the colonial state.
+After the trial, cadres of the Front burned British, US and Zionist flags. The event was attended by a large number of people, including representatives of the national and Islamic forces and prisoner support organizations, including the campaign to free Ahmad Sa’adat, and members of the Progressive Student Labor Front.
+Comrade Allam Kaabi, member of the Central Committee of the Front and former prisoner, spoke at the event, saluting the martyrs who have sacrificed their lives for freedom under the banner of the intifada, and saluting the prisoners in Zionist jails, led by the General Secretary of the Front, Comrade Ahmad Sa’adat, who has called through a letter from Nafha prison to make every effort to sustain and build the intifada.
+He emphasized the role of the entire Palestinian people, on all of the land of Palestine and outside Palestine in the camps and diaspora, in uniting behind the intifada. He emphasized that it is the responsibility of all, and particularly of the national and Islamic forces, to escalate and continue the uprising and thwart all attempts to suppress it.
+Kaabi pointed out that national unity is a safety valve for our people to continue the uprising and confrontation of the occupier, emphasizing the need for a unified national strategy and leadership to protect the uprising from attempts to undermine and stop it.
+Kaabi noted the ongoing mass arrests against the Palestinian people, particularly of children, and emphasized that the prisoners’ movement is an integral part of this intifada and an inspiration to the masses of our people, which stands in the front line of confrontation with the occupation.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

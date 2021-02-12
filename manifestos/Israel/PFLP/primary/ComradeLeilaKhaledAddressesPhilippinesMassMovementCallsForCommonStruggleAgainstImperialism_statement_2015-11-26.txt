@@ -1,0 +1,37 @@
+
+Comrade Leila Khaled, member of the Political Bureau of the Popular Front for the Liberation of Palestine and Palestinian resistance national figure, participated in protests against the Asia Pacific Economic Cooperation (APEC) summit in Manila, Philippines. The demonstrations drew thousands of protesters with the Philippines popular movement to the streets, and coincided with the Fifth International Assembly of the International League of People’s Struggles, where Comrade Khaled delivered a keynote address.
+She addressed the crowd, speaking about the struggle against brutal economic policies represented by APEC, and against corporate and imperialist looting and exploitation, and the need for a constant international struggle for liberation of the exploited and oppressed peoples from the grip of imperialism, to determine their own future and reclaim the rights and capacities of their nations.
+Khaled also participated in many media interviews, speaking in solidarity with the Lumad indigenous people in the Philippines and discussing mutual histories of displacement by colonialism and struggle for return, and the common struggle of the Palestinian people with other oppressed peoples in Asia, Africa and around the world, who are struggling daily for human and national rights while confronting repression, plunder and exploitation. The Palestinian people stand alongside and at the forefront of the international struggle against imperialism, racism and occupetion.
+She noted the central role of revolutionary women in the movement, commending the role of GABRIELA and the women’s movement in the Philippines, pointing to their key role in the struggle for justice and liberation.
+Jose Maria Sison, international chair of ILPS, sent a letter to Comrade Khaled, thanking her for her participation: “Your gracious presence and militant speeches have inspired the participants of the 5th International Assembly and further developed their understanding of and solidarity for the struggle of the Palestinian people against US imperialism and  Zionist Israel. The ILPS stands firmly with the Palestinian people their revolutionary struggle for a Free Palestine!”
+ 
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+Videos:
+
+
+ 

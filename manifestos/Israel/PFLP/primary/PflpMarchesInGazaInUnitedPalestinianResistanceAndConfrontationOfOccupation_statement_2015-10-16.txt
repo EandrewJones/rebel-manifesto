@@ -1,0 +1,54 @@
+
+The Popular Front for the Liberation of Palestine in Gaza organized a series of events to stand with their fellow Palestinians in the West Bank, Jerusalem and Occupied Palestine ’48, united in confronting Zionist colonialism.
+On Wednesday, October 14, the PFLP in northern Gaza organized a march, saluting the resistance and pledging to struggle, through Jabalya refugee camp. Participants carried Palestinian flags and PFLP banners, chanting slogans for the Intifada and the heroic resistance operations, saluting the comrades who have fallen in the path of resistance, including those who carried out the most recent operation in Jerusalem, the martyrs Comrades Alaa Abu Jammal and Bahaa Alayan, and the martyred son of Dheisheh refugee camp, Comrade Moataz Zawahreh.
+“We are here, in the heart of Jabalya camp, the cradle of the first Intifada, who have given so much heroism, and sacrifice, and so many martyrs, gathering today to express the support of all of our people in the Gaza Strip for our people in Jerusalem, in the West Bank, in Occupied Palestine’ 48, and for the heroic operations carried out by Zionist youth, which are shaking the Zionist entity, its soldiers and settlers,” said Comrade Hussein Mansour. “The Gaza Strip, its cities, its villages and its camps will continue to fuel the revolution with anger and resistance…We are always bound to our people in Jerusalem, in the West Bank, and in Occupied Palestine ’48.”
+Mansour demanded an end to Palestinian Authority security cooperation with the occupation killers taking the lives of the Palestinian people and to cut off all relations with the occupier, and for the PA’s security forces to instead join the people in fighting the occupation and the settlers. He urged the widest Arab and international support for the Palestinian people, and the exposure of the crimes of the racist, fascist, occupation. “Our people will not back down and will continue resistance, struggle, and uprising against the Zionist enemy, the invader, by all forms and methods of confrontation.”
+In Beit Hanoun, on October 13, the Palestinian Progressive Youth Union marched from Hamouda Station to the Beit Hanoun Crossing in the far north of Gaza, which marched to the border fence, clashing with Israeli soldiers with stones from zero distance with hundreds of comrades from the Progressive Student Labor Front, being shot at with live bullets, tear gas and rubber-coated bullets, wounding a number of comrades. Comrade Ashraf Sultan said that youth are marching to reach their occupied lands stolen from them in 1948, and that the Gaza Strip is an integral part of the one nation of Palestine. He said that Palestinian youth will continue to confront occupation forces at the borders of Gaza and escalate the confrontation and uprising against occupation forces.
+81 Palestinian civilians were wounded in the clashes near Beit Hanoun by occupation forces, by rubber-coated and live bullets and by tear gas inhalation.
+Video: https://ruptly.tv/vod/view/36212/state-of-palestine-thousands-of-gazans-rally-in-solidarity-with-the-west-bank
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

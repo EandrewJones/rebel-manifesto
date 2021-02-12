@@ -1,0 +1,48 @@
+
+In a series of lectures held in Ain el-Helweh and Beddawi refugee camps in Lebanon on December 20 and 21, Comrade Khaled Barakat attacked the current Palestinian official leadership and the “path of illusions they are presenting to the Palestinian people.”
+“Historically, Palestinian capitalists and bourgeoisie have led Palestinians to one misery after another. This class will not and does not defend the Palestinian cause. This class cares only to secure their own, petty interests, and they do not care what happens to the Palestinian people and their rights. This was the same in 1936, 1948, 1967, and it will always be the same. Of course, the occupiers and colonialists bear the major responsibility for the situation of the Palestinian people, but the traditional backward leadership representing this class bears a great deal of responsibility for the miserable conditions Palestinians have reached,” Barakat said. “It is time for a new leadership, of revolutionaries from the impoverished and popular classes, in the refugee camps. Only a solid leadership that is connected to its people and the path of armed struggle, in the homeland and in exile, can be an exit from the current situation.”
+Barakat called the draft resolution before the United Nations Security Council “a treason that puts Palestinian rights at risk and endangers the core of the Palestinian cause, which is the right of return.” Barakat asked the audience, “What are you going to do about this? Are you going to raise your voice and say that no one will confiscate our cause? Are you going to raise your voice against the current condition of the Palestine Liberation Organization, which once belonged to you, which you built with your own blood, sweat and money? Are you going to reclaim the path of the Palestinian refugees’ struggle in exile, and reclaim your voices and your revolutionary intellectuals, Ghassan Kanafani and Naji al-Ali? Or are you going to accept this?”
+Comrade Barakat said that the “most dangerous form of corruption on the Palestinian scene is the political corruption of the current leadership. The Palestinian Authority is a corrupt institution, and it is administrating corruption. Security cooperation with the occupier is treason. Financial corruption, administrative corruption, social corruption come from this source – political corruption. From the 1 percent – Palestinian capitalists – who are confiscating 100 percent of the Palestinian political decision.”
+Addressing youth in Ain el-Helweh refugee camp, Comrade Barakat said, “It is Palestinian youth who come from the impoverished classes who are on the front lines of resistance every day, regardless of their faction or political affiliation. In the prisons, in the armed resistance, in Gaza, in the student movement, in the clashes with Israeli soldiers, the martyrs, the wounded, the vast majority are youth. What is their share in this political decision? Who asks Palestinian youth about their circumstances, their conditions, what they want? This is a time of change and revolt, and youth must lead.”
+“The monopolist Palestinian Authority in Ramallah have reached a dead end. They have nothing to offer for Palestinians but illusions and more illusions. Yet, the monopolist leadership of Hamas in Gaza are looking at the interests of Hamas above the interests of the Palestinian people and their cause. Therefore, the slogan of ‘national unity’ is empty and worthless unless this national unity is imposed by the popular classes of the Palestinian people in the homeland and in exile. We do not want to enter a ‘national dialogue’ under the auspices of the Arab intelligence services in Cairo, Doha and Amman. We want to build our national dialogue in Ain el-Helweh refugee camp under the auspices of the Palestinian people and with the protection of Palestinian guns,” Barakat said.
+“The Popular Front for the Liberation of Palestine is entering a new stage after it convened its seventh national conference with the renewal that it has been witnessing and our people are feeling that the Front is marching forward. No one should expect vague statements or ambiguous positions on the cause of our people and the struggle for return and liberation. The Front belongs to the impoverished Palestinian and Arab people, and people around the world, and it will always be for them, until victory,” said Barakat.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 

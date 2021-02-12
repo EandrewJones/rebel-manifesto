@@ -1,0 +1,410 @@
+
+Following a series of mass arrests, particularly focused in the refugee camps, and raids on offices of the PFLP and mass Palestinian institutions by the occupation forces in Tulkarem, Jenin, Qalqilya and elsewhere, the PFLP and its cadres, members and supporters in the occupied West Bank of Palestine held a series of rallies, marches and actions commemorating the 48th anniversary of the Front’s founding.
+In the village of Asira near Nablus, masked supporters of the Front marched through the village, carrying Palestinian flags and PFLP banners and pictures of the banners, pledging to continue the uprising. The marches burned a flag of the Zionist occupier and played the songs of the Front through the village.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**
+In Dheisheh refugee camp near Bethlehem, the home of two of the Front’s recent martyrs, shot down by occupation forces as they marched for freedom, Comrades Malek Shaheen and Muataz Zawahreh, comrades of the Front took part in a masked march throughout the camp commemorating the 48th anniversary.
+The marchers carried Palestinian flags, PFLP banners and posters of the prisoners and martyrs, chanting for the rising intifada and the liberation of Palestine and demanding an end to security coordination between the Palestinian Authority and the occupation.
+They pledged to continue on the path of intifada and resistance until liberation.
+
+			#gallery-2 {
+				margin: auto;
+			}
+			#gallery-2 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-2 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-2 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**
+In the village of Saffa near Ramallah, masked supporters of the Front marched in a night march, carrying Palestinian flags, PFLP banners and the posters of the martyrs of Palestine and the Front.
+The marchers chanted for the liberation of Palestine, the escalation of the intifada and an end to the era of Oslo.
+
+			#gallery-3 {
+				margin: auto;
+			}
+			#gallery-3 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-3 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-3 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**
+In Ramallah city, members and supporters of the Front commemorated the anniversary with a march to Beit El and confrontation of occupation soldiers north of Ramallah. Dozens of Palestinians were injured with rubber-coated metal bullets and tear gas when their protest was attacked by occupation forces.
+Comrade Omar Shehadeh, a leader in the PFLP, said that the Front’s message today is the same as that of its launch 48 years ago: intifada, resistance, liberation and return.
+
+			#gallery-4 {
+				margin: auto;
+			}
+			#gallery-4 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-4 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-4 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+**
+The PFLP in Awarta village near Nablus commemorated the 48th anniversary of the Front with a rally in the yard of the Abu Ali Mustafa school, speaking about the history of the Front and the need to escalate today’s intifada to achieve its goals of liberation and return.
+
+			#gallery-5 {
+				margin: auto;
+			}
+			#gallery-5 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-5 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-5 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+**
+The Front in the city of Nablus held a mass rally and march through the streets of the city to the monument for the Front’s martyrs, carrying Palestinian flags, PFLP banners and posters of imprisoned General Secretary Comrade Ahmad Sa’adat and the martyrs of the Front.
+The marchers chanted to escalate the intifada and resistance against the Zionist occupation and demanded the abolition of security coordination between the Palestinian Authority and the occupier.
+The comrades participating in the march emphasized the anniversary of the Intifada of 1987 and the anniversary of the Front as critically important in this current era of national struggle, at a time when the escalation of the intifada against the occupier is on the rise. They noted that the Palestinian people are determined to win their freedom through struggle and resistance not by begging and negotiations that have won nothing for our people.
+
+			#gallery-6 {
+				margin: auto;
+			}
+			#gallery-6 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-6 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-6 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**
+The Progressive Student Labor Front at Al-Quds University held a rally marking the 48th anniversary of the Front and the anniversary of the intifada, with the participation of student blocs and groups at the university.
+
+			#gallery-7 {
+				margin: auto;
+			}
+			#gallery-7 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-7 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-7 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**
+The Progressive Student Labor Front at Bethlehem University also held a campus rally to mark the 48th anniversary of the Front, bringing students into the campus streets with speeches and music to honor the Front’s history and pledge the continuation of struggle.
+
+			#gallery-8 {
+				margin: auto;
+			}
+			#gallery-8 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-8 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-8 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+**
+The PFLP in Beit Sahour commemorated the 48th anniversary of its founding with a cultural event, screening a film about the leaders and founders of the Front and presenting a poetry reading about Palestine and the PFLP. They also presented plaques to honor families of martyrs and activists of the PFLP who played a major role in the first intifada; following the event, participants marched carrying PFLP banners and Palestinian flags to the mural of George Habash in the town center.
+
+			#gallery-9 {
+				margin: auto;
+			}
+			#gallery-9 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-9 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-9 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+**
+Comrades of the Front in Beit Jala adorned the town with PFLP banners in commemoration of the 48th anniversary.
+
+			#gallery-10 {
+				margin: auto;
+			}
+			#gallery-10 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-10 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-10 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+**
+In Battir village near Bethlehem, comrades rallied, pledging to continue their resistance until the liberation of Palestine and to escalate the intifada, on the anniversary of the Front.
+
+			#gallery-11 {
+				margin: auto;
+			}
+			#gallery-11 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-11 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-11 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+ 

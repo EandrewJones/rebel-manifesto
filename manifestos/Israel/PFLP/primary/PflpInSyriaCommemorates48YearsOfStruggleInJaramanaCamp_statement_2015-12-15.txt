@@ -1,0 +1,36 @@
+
+The Popular Front for the Liberation of Palestine commemorated its 48th anniversary in Jaramana refugee camp near Damascus, Syria, in an event attended by Palestinian and Syrian political parties and groups and a number of Palestinians from the Damascus area.
+Comrade Abu Ahmad Fuad, deputy General Secretary of the Front, spoke about the Front’s history and commitment to the path of resistance, vowing that the PFLP will remain a leader in all forms of struggle, particularly armed struggle, until the liberation of Palestine. He urged the rebuilding of the PLO and its institutions on a new, democratic and inclusive basis in order to unite the Palestinian people and achieve their objectives of the full liberation of Palestine and the return of Palestinian refugees. He saluted the resistance forces and countries and denounced the Saudi regime’s war on the Arab people in Yemen, as well as denouncing the attacks by Arabsat against Al-Manar and Al-mayadeen television channels.
+Anwar Abdul Hadi, the Palestinian ambassdor in Damascus spoke at the even, noting that the anniversaries of the founding of all of the factions are holidays of the Palestinian people as a whole, noting the role of the Popular Front in the history of the Palestinian struggle.
+Hajj Hassan Izz al-Din, the Arab relations officer in Hezbollah, spoke at the event about the importance of this rising Palestinian intifada, noting that the Palestinian people use all weapons and tactics to defend their people ans their cause and confront the occupier.
+The event concluded with the performance of Palestinian and PFLP songs.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+ 

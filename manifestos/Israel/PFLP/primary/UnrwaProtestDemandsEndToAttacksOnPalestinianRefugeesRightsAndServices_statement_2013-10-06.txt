@@ -1,0 +1,90 @@
+
+On October 6, 2013, protests took place in Rafah, Khan Younis, central Gaza, Jabaliya and Beit Hanoun, protesting cuts by the United Nations Relief Works Agency (UNRWA) to services for Palestinian refugees. Protesters called for all Palestinians to continue these actions against UNRWA’s cuts and policies through escalating protests.
+Protesters delivered a memo to Director of Operations Relief and Works Agency in Gaza, Robert Turner, expressing serious concern about the systematic cuts to UNRWA services as a policy in Gaza.
+The Front issued a statement:
+Severe cuts from UNRWA (the United Nations Relief Works Agency) to services to the Palestinian refugees, including school-year meals for students and other cuts impacting social groups that had been receiving food aid. This has happened under the justification of a budget deficit and cuts to UNRWA’s funding. In 2013, 9500 families living in poverty in Gaza were cut off from UNRWA’s food aid program, and over the past three years there has been a gradual series of cuts in health services, employment, education and relief and aid.
+These successive and systematic measures, coincident with similar circumstances in Palestinian refugee camps in Lebanon and Syria have deprived poor families of emergency food aid, which provides important basic food aid, as well as exacerbating the suffering of thousands of graduates and unemployed youth due to not receiving temporary unemployment aid.
+The PFLP is convinced that these punitive measures against Palestinian refugees in the camps are political in nature and not related to the budget deficit or financial urgency. The issue is closely linked to the pressures of international actors against the Palestinian people, in order to liquidate the Palestinian cause and refugees’ rights. It is further linked to the cuts of Western nations to UNRWA’s budgets for explicitly political reasons. Cutting services to Palestinian refugees is providing services to the Zionist enemy.
+The Popular Front for the Liberation of Palestine said that such decisions exceed all guidelines and are a declaration of systematic war on the rights of Palestinian people, threatening to deepen their suffering under a state of siege and widespread poverty in the camps. The Front calls upon UNRWA to retreat immediately from these cuts and unjust decisions by doing the following:
+1) The duties of the international relief agency for Palestinian refugees (UNRWA) is linked to the decision of the UN to create this agency to bear responsibility for the continued financial, in-kind and relief support for these refugees, and any violation of this means participation in conspiracy against the Palestinian people in response to U.S. pressure.
+2)A program must be immediately developed to set a poverty line commensurate with the economic and social conditions of the refugees in the Gaza Strip rather than the formula currently used by the agency which is imported from UNRWA in Jordan, due to the different economic and social conditions in Gaza.
+3) UNRWA must return immediately to providing meals for school students, this is an important service providing basic needs for children, particularly the children of poor families who cannot provide quality meals for their children.
+4) Increase the services provided to refugees, particularly food aid, temporary unemployment aid,, and health services should be developed instead of reduced. The financial crisis should be addressed not at the expense of basic services but instead through reducing the inflated salaries of foreign administrators and experts and related administrative expenses which do not directly affect refugees.
+The PFLP warned of a revolution of hunger for which all those who damage Palestinian refugees’ rights will pay the price. Further it called for united Palestinian action to expose the UNRWA policies and actions and called for broad participation in the protests on Sunday, October 6.
+The cause of Palestinian refugees and their rights, fundamentally the right of return, will continue to be the heartbeat that will defeat all projects that aim to liquidate the Palestinian cause and the rights of Palestinian refugees.
+
+			#gallery-3 {
+				margin: auto;
+			}
+			#gallery-3 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 25%;
+			}
+			#gallery-3 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-3 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

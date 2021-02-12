@@ -1,0 +1,50 @@
+
+The Democratic Palestine Committees of Berlin and supporters of the Popular Front for the Liberation of Palestine in Berlin organized an event on Saturday, December 12 to commemorate the 48th anniversary of the Front.
+The event, attended by hundreds of Palestinians and Arabs in Berlin as well as solidarity organizers with Palestine, included music, rap and Palestinian folkloric dabkeh dance performed by Firqat Al-Awda, a new Palestinian youth troupe in Berlin. Comrade Sakhran Sakhran, the first PFLP prisoner in Israeli jails, attended the event, as well as Dr. Kholoud Daibes, the Palestinian ambassador in Germany. Comrade Khaled Barakat delivered the keynote speech at the event.
+Comrade Abdullah Saleh opened the event with a speech reviewing the history of the Popular Front, noting that this was also the 28th anniversary of the Intifada which erupted in 1987, noting the historic struggles of the Palestinian people.
+Dr. Mohannas Al-Abyad delivered a message on behalf of Fateh, expressing the role of the PFLP as a founder of the PLO and a constant force for national unity in the Palestinian revolution, quoting the words of George Habash, the founder of the PFLP and the Arab Nationalist Movement.
+Dr. Kholoud Daibes, the Palestinian Ambassador in Germany, made a special salute to the Firqat Al-Awda as a sign of Palestinian youth involvement in Berlin. She also greeted the Palestinian people in occupied Palestine, in particular the Palestinian prisoners in occupation prisons, making note of imprisoned Palestinian leader and struggler Comrade Khalida Jarrar.
+Comrade Khaled Barakat gave the keynote speech of the evening, reviewing the history of the Palestinian struggle through 98 years of resistance to Zionism and colonialism from the earliest days of the Balfour declaration. He emphasized the need to draw lessons from the lengthy history of the Palestinian struggle and to confront the camp of the enemy, led by United States imperialism, Zionism and its racist state, and reactionary forces and states in the region.
+“The 48th anniversary of the Popular Front is an important occasion in the struggle. This year, it comes alongside the escalation of the Palestinian intifada inside occupied Palestine; it is accompanied by the memory of the major popular intifada that began in 1987. It is critical to escalate all forms of struggle to confront Zionism,” Barakat said. He noted that the slogan of the anniversary, connecting the founding of the Front to the intifada, confirms not only the relation of these important dates in Palestinian history, but that the intifada is the national framework that unites the Palestinian people, provides a true picture of the Palestinian struggle, and transcends fragmentation and division.
+He attacked the reactionary forces in the region, particularly the axis of Saudi Arabia, Qatar and Turkey, particularly condemning the Saudi/American aggression against Yemen and the role of Saudi Arabia in attempting to push Arab societies into sectarianism and bloodshed and away from true Arab popular movements against oppression and dictatorship.
+Barakat saluted the heroic Palestinian martyr Sami Madi, killed on the day of anger and confrontation of the occupation in the Gaza Strip to mark the anniversary of the Front, noting the leadership of the prisoners of the Front and the heroic sacrifices of its martyrs. “The Front has never lost the compass of Palestine, as a revolutionary party led by Palestinian Arab fighters, refugees and prisoners held in the jails of the occupier,” said Barakat.
+The event also included messages of solidarity and support for the PFLP and the Palestinian people on the 48th anniversary of the founding of the Front.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

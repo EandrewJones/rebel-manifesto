@@ -1,0 +1,83 @@
+
+Thousands of leaders, cadres, members and friends of the Popular Front for the Liberation of Palestine took the streets of Gaza City for a mass march on December 12, marking the 48th anniversary of the Front. The march, carrying Palestinian flags and PFLP banners, launched from the Saraya through the streets of the city to the United Nations headquarters, with the participation of representatives of various Palestinian national and Islamic parties, and women’s, student and youth organizations.
+Comrades Bisan Odeh and Zakaria Abu Obeid opened the rally, saluting the Front and the masses of the Palestinian people.
+Comrade Jamil Mizher, member of the Political Bureau and leader of the Front’s branch in Gaza, delivered the keynote speech, saluting the martyrs and giving a special salute to Comrade Sami Madi, killed by occupation forces the previous day while participating in demonstrations confronting occupation forces on the borders of Gaza to mark the Front’s anniversary.
+He saluted the Palestinian leaders in prison, led by imprisoned PFLP General Secretary Comrade Ahmad Sa’adat and his fellow leaders Comrade Khalida Jarrar and Comrade Ahed Abu Ghoulmeh, as well as the diverse Palestinian leaders held behind bars, including Marwan Barghouti, Jamal Abu al-Hija and Hassan Salameh. He also saluted Comrades Nidal Abu Aker and Ghassan Zawahreh of Dheisheh refugee camp on their recent release from occupation prisons, a victory over the Zionist jailer.
+In particular, he saluted the Palestinian workers, peasants and popular classes as the leaders of the Palestinian revolution. He recalled the martyrs of the Palestinian struggle and of this intifada, noting that this intifada embodies the unity of Palestine and the will of the people and that it is recentering the Palestinian cause as the central issue in the region after its deliberate marginalization. Furthermore, he said, the role of the people in this uprising is superseding all narrow interests and internal divisions.
+He addressed the role of US imperialism and the so-called “Quartet” in Palestine, noting that they would be unable to stop the intifada without forcing their strategic partner, the occupier, to recognize the rights of the Palestinian people.
+The creative role and potential of Palestinian youth is imposing the will of the people over the Palestinian leadership, said Mizher, noting that the people would no longer accept the path of negotiations and Oslo.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

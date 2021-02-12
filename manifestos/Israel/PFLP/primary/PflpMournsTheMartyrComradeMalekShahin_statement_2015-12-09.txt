@@ -1,0 +1,56 @@
+
+The Popular Front for the Liberation of Palestine mourns our martyred comrade, Malek Akram Shahin, 19, killed at dawn on December 8 by heavily armed occupation forces who invaded Dheisheh refugee camp, violently attacking the Palestinian refugees in the camp.
+The occupation military forces killed Comrade Shahin as part of their violent “arrest” raid on the camp, abducting six Palestinians and demanding many comrades in the camp report for interrogation. He was left to bleed in the street for a long period of time and prevented from reaching a hospital, and was then pronounced dead at Beit Jala Hospital.
+The Front salutes the heroic martyr, praises his commitment to struggle and to confront the occupier and its storming of the camp. The continued targeting of the cadres and members of the Front in Dheisheh camp by the occupation forces, including the broad arrest campaign against them, will not extinguish the flame of the intifada nor the commitment of the Front, especially on the eve of the 48th anniversary of the Front’s founding.
+The occupation is continually carrying out heinous crimes against our Palestinian youth, who are leading the struggle and in the forefront of confrontation of the occupation; their attacks will not silence our youth nor prevent them from continuing to escalate the confrontation with the occupier and its soldiers and settlers.
+Thousands marched in Comrade Malek Shahin’s funeral, honoring this beloved and brave revolutionary youth and pledging to continue the intifada.
+
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

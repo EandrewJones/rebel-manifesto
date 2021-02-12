@@ -1,0 +1,57 @@
+
+Supporters of the Popular Front for the Liberation of Palestine in Cuba commemorated the 48th anniversary of the founding of the Front in an event attended by Cuban internationalists, and members of the Arab and Palestinian communities in Cuba.
+The event was attended by Rene Gonzalez, Hero of the Cuban Republic and freed prisoner, one of the “Cuban Five” held in U.S. jails for many years, as well as the Ghanaian ambassador and representatives of the Palestinian embassy in Cuba.
+Clara Pulido Escandel, coordinator of international relations with Africa and the Middle East of the Central Committee of the Communist Party of Cuba, spoke at the event, emphasizing Cuba’s support for the Palestinian people and quoting the statements of Comrade Fidel Castro on the rights of the Palestinian people to self-determination and independence.
+Graciela Ramirez Cruz, Argentine internationalist activist and director of Resumen Latinoamericano in Cuba, delievered a solidarity message, speaking about her visit to Sabra and Shatila and the Palestinian camps in Lebanon and in occupied Palestine. She expressed her support for the Palestinian resistance and the Palestinian prisoners, calling for support for the Palestinian people and especially Palestinian women struggling and confronting the occupation.
+Comrade Basil Ismail, representative of the PFLP in Cuba, gave a speech emphasizing the history of the Front and its commitment to militant Palestinian national unity to escalate the intifada, and the importance of international solidarity with the Palestinian cause.
+He also expressed his support for Argentine journalist Carlos Aznarez, facing persecution by Zionist organizations who seek to silence solidarity with the Palestinian people.
+The event included Palestinian youth performances of short theatrical plays portraying Palestinian suffering and steadfastness in the face of displacement, dispossession and oppression, as well as dabkeh folkloric dance and national Palestinian songs.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 

@@ -1,0 +1,47 @@
+
+The Palestinian National and Islamic Forces organized a day of action to break the siege and demand reconstruction, including protests and rallies in all of the provinces of Gaza. Large crowds od Palestinians carrying Palestinian flags, including representatives of the Palestinian factions, national figures, and many owners and residents of destroyed homes participated in the protests, holding signs and banners condemning the siege and demanding immediate reconstruction.
+At the rally in Shujai’ya, Comrade Jamil Mizher, member of the Political Bureau of the Popular Front for the Liberation of Palestine and leader of its branch in Gaza, presented a statement in the name of the Palestinian people addressing General Secretary Ban Ki-Moon.
+The statement expressed the absolute rejection of the reconstruction plan put forward by Robert Serry, which only serves to increase the suffering of the Palestinian people who are already living in tragedy. Thousands of Palestinians in Gaza are still homeless, living in the open air and in shelters amid disastrous economic and social conditions.
+Any plan for reconstruction must be based on the high principles of international law and legitimacy, said Mizher. These principles were ignored in the Serry plan in favor of the Zionist occupation, creating long and complex procedures and bureaucracy that marginalize Palestinian institutions and instead place the occupation and international agencies in charge of the reconstruction of Gaza.
+Despite the words of various international institutions stressing the need to end the suffering of Palestinians in Gaza, the suffering of the siege has continued for over 8 years and this reconstruction plan willfully ignores long-term plans for development, clearly intended instead only to cool the atmosphere rather than to provide a serious solution for people bereaved and dispossessed, Mizher said.
+Mizher said that this has led to the significant obstruction of the reconstruction project, holding it hostage to Zionist acceptance and domination. All of this only extends and intensifies the suffering of the Palestinian people and social problems such as poverty, unemployment and rising inflation of unprecedented proportions.
+He warned that the continuation of this situation without serious decisions that respect the interests of our people will lead to an explosion at any moment. At the end of the statement, Mizher emphasized the need for a new reconstruction plan that accelerates reconstruction in Gaza without the constraints, oversight and interference of the occupation, and also demanded an end to the siege imposed on the Gaza Strip and the unconditional opening of all crossings.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

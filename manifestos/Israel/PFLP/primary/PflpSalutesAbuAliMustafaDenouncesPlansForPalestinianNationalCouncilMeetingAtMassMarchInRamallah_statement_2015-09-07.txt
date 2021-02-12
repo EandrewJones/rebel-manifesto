@@ -1,0 +1,67 @@
+
+The Popular Front for the Liberation of Palestine commemorated the fourteenth anniversary of the martyrdom of Comrade Abu Ali Mustafa in Ramallah on September 5, where a mass march wound through the streets in the city before gathering for a rally with thousands of members and supporters of the Front.
+The rally included speeches from a number of Palestinian national leaders and cadres of the Front about the life and struggle of Comrade Abu Ali, as a leader and a revolutionary who refused to compromise on the rights of his people. Speakers called for adhering to the path of armed struggle as a strategic option at the head of all forms of resistance.
+The Front denounced and rejected the PLO monopolistic leadership’s convening of an extraordinary session of the Palestinian National Council, as part and parcel of the destructive Oslo policy and the domination of the Palestinian Authority.
+The rally included a statement on behalf of Comrade Abu Ahmad Fuad, Deputy General Secretary of the PFLP, during which he renewed the call for an immediate meeting of the provisional leadership of the PLO to implement the provisions of the Cairo Agreement and activate, rebuild and unify the PLO as a national framework of all forces, representing our people in Palestine and in diaspora, through the election of a new, unified PNC.
+The statement rejected this form of exclusivity and domination as an insult and undermining of the PLO’s history of militant struggle, noting that it was along this path that we have seen the deepening of national crisis and the persistence in devastating negotiations as the sole option while the occupation kills, destroys and steals the land, trees and stones. The Front also rejected any steps of the Hamas movement toward negotiations mediated under the pretext of reconstruction and lifting the siege on Gaza as a path towards reproducing a new Oslo and further disintegration of our people’s resistance, noting that the only beneficiary of negotiations is the Zionist occupier.
+The statement saluted the steadfastness of the Palestinian prisoners and the captive heroes of the Front, headed by PFLP General Secretary Ahmad Sa’adat and the hunger striking prisoners.
+Comrade Taher Saif delivered a speech on behalf of Abnaa al-Balad movement in occupied Palestine 48, saluting the national Palestinian leader and martyr Abu Ali Mustafa and the struggling prisoners in Israeli jails, led by the imprisoned Comrades, Ahmad Sa’adat and Khalida Jarrar. He delivered two messages to the Palestinian people: first, the need to uphold national unity to confront the occupation, strengthen the Palestinian house and prevent destructive projects that aim to eliminate the Palestinian cause, and second that the struggle with the Zionist occupier cannot be resolved except through resistance as the occupier will understand no substitute.
+Released prisoner and struggler, Sheikh Khader Adnan, addressed the crowd, urging support for the prisoners’ struggle, and noting that the large numbers coming out indicate that the Palestinian people are with the path of resistance, saluting the fighters of all Palestinian factions. “Our people are not broken and the resistance is not broken,” said Adnan.
+Several mothers of prisoners participated in the event, saluting all of the prisners and demanding their freedom, calling for a broad campaign of support for the hunger striking prisoners battling to end administrative detention. Um Nidal Abu Aker, mother of Nidal Abu Aker, hunger-striking administrative detainee, spoke, saluting the memory of Abu Ali Mustafa and noting that all Palestinians remember well his positions and his commitment, and calling for all efforts to support the hunger striking administrative detainees.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

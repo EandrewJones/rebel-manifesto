@@ -1,0 +1,37 @@
+
+The Popular Front for the Liberation of Palestine, with the Democratic Front for the Liberation of Palestine, organized a protest outside the headquarters of the United Nations in Gaza against the so-called Serry plan for Gaza reconstruction on December 7.
+In a memo submitted to the United Nations on behalf of the Palestinian people of Gaza, Comrade Osama al-Haj Ahmad expressed serious concern for the continued suffering of those who were displaced or their homes destroyed, including those who remain homeless, noting that part of the responsibility for this lies with the international institutions that have not met their obligations, including expressed promises to expedite the reconstruction of demolished homes without obstruction by the occupation forces.
+Comrade al-Haj Ahmad said that the Palestinians of Gaza were shocked by the plan of UN envoy to the region, Robert Serry, which has been formulated to ensure and protect the interests of the occupation, support the continuation of the siege, and expand the influence and control of the United Nations at the expense of Palestinian self-determination and rights, attempting to impose “a form of international guardianship over the reconstruction process.”
+He pointed out that this plan legitimizes and perpetuates the siege under international and UN cover, while hindering the entry of reconstruction materials and holding the process hostage to Zionist acceptance and authorities. In addition, he noted that the entry of all reconstruction materials through Zionist-controlled crossings under this plan will lead to the occupation and its corporations profiting from the destruction and reconstruction of Gaza, by supplying and selling the majority of materials to be used in reconstruction.
+“This is rejected by all of the sectors of our people. The UN is here transformed to a contracting company for the policies of the occupation. Acceptance of the mechanisms of implementation in this plan means the acceptance of the control, authority and security inspection of the occupation, which will delay the process of reconstruction for years. This plan has completely ignored the discussion about community development in conjunction with the reconstruction process. The suffering of people in the Gaza Strip, which increased dramatically after the recent Zionist aggression, is not only a matter of the destruction of homes during the war, but also the continuation of the siege for eight years, which has led to serious deterioration in the quality of life on political, social and economic levels, and in the destruction of infrastructure after the occupier waged three criminal wars consecutively on the Strip in a period of six years,” he said.
+He called instead for a Palestinian national mechanism as a substitute for the Serry plan, without control or authority by the occupation; and for the immediate end of the siege and opening of all crossings in order to ensure the success of reconstruction. Further, he said that the United Nations must play its role and live up to its responsibilities to support the Palestinian refugees through UNRWA, which includes developing a long-term plan to rehabilitate infrastructure and open new horizons for the lives of Palestinians in Gaza who have been held under siege for over eight years. Furthermore, he said that it is necessary to hold the occupation accountable for its crimes before international courts and to take action to prevent the repetition of its war crimes and destruction of homes, saying that the United Nations and international institutions must do their part to strengthen the resilience od the displaced persons and support the rights of the Palestinian people.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+ 

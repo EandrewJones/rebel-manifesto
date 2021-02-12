@@ -1,0 +1,46 @@
+
+The Palestinian associations and societies in Aarhus, Denmark, organized an event commemorating Land Day, with the participation of the Palestinian and Arab community in the Aarhus area, as well as European supporters of Palestine.
+Suhail Abu Karroub spoke at the event, saluting the martyrs who fell on Land Day in 1976 and all of the martyrs of the Palestinian revoution, noting the many days of critical importance to the Palestinian cause in March, including International Women’s Day, Mother’s Day, the Karameh battle anniversary and Land Day.
+The mayor of Aarhus participated in the event, speaking about the relations between the municipality and the Palestinian people, including the twinning agreement between Ramallah and Aarhus.
+Abu Bara Shuhaiber spoke on behalf of the Palestinian Forum in Denmark, emphasizing the need to organize for Palestinian national events and build support for the Palestinian people at all levels.
+Majid al-Zeer spoke about Palestinian history and Land Day as part of the indelible legacy of Palestinian struggle; he also noted the anniversary of the Karameh battle and the assassination of Sheikh Ahmad Yassin.
+Palestinian poet Mahmoud Basha recited some of his work, Palestinian painter Salim al-Assi exhibited and auctioned his art, and several troupes performed Palestinian traditional dabke to national songs.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

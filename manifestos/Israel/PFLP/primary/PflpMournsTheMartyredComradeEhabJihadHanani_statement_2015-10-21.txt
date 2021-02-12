@@ -1,0 +1,47 @@
+
+The Popular Front for the Liberation of Palestine mourns its comrade, the martyr Ehab Jihad Hanani, 20, shot and killed on Friday, October 16 by occupation forces at Beit Furik checkpoint, joining the martyrs of Palestine and of the Front.
+The Front salutes the comrade martyr, who always joined in confronting the occupation forces in the area alongside his comrades. The Front also salutes and sends its condolences to the struggling Hanani family, who have given so many martyrs and wounded in the struggle for the freedom of Palestine.
+The Front pledges in the name of the martyr Comrade Ehab Hanani, and all of the martyrs, to continue the struggle until the liberation of all of Palestine.
+Massive crowds joined the funeral march in Beit Furik, Nablus in occupied Palestine on Saturday, October 17, carrying the body of the martyred comrade.
+The funeral procession departed from Rafidia Hospital with dozens of vehicles who escorted the body to the entrance of Beit Furik village. Thousands of mourners participated in the procession, carrying the body of the martyr on their shoulders through the streets of the village.
+He was buried in the martyrs’ cemetery in Beit Furik. The Palestinian political forces and factions and representatives of the municipality spoke at his graveside, praising his contributions and virtues and readiness to confront the occupation forces despite being injured several days prior by occupation forces.
+Palestinian youth protested and confronted repressive occupation forces who began attacking the youth following the funeral procession, firing tear gas, live ammunition and rubber-coated bullets at young people until late in the night.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

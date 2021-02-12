@@ -1,0 +1,51 @@
+
+The action of UNRWA to stop providing financial assistance to the owners of destroyed home is a critical decision that is intensifying suffering in the Gaza Strip, said Comrade Jamil Mizher, member of the Political Bureau of the Popular Front for the Liberation of Palestine and leader of its branch in Gaza. Mizher noted that this act will only exacerbate catastrophic conditions, the deterioration of the humanitarian situation and the electricity crisis, as well as the lack of reconstruction and growing poverty and unemployment, and can lead to a real, serious explosion at any moment.
+The Front held a protest outside the UNRWA headquarters in Gaza City on February 3, urging immediate reconstruction and the delivery of funds to needy Palestinians, condemning the UN’s systematic involvement in policies that intensify the suffering of the Palestinian people.
+Mizher said that UNRWA’s justifications for its decisions regarding lack of funding are untrue and insufficient; in fact, this action is putting pressure on the Palestinian masses in an attempt to undermine the resistance and force concessions upon the Palestinian people in return for limited assistance here or there and the entry of some goods.
+Furthermore, Mizher said, the United Nations has demonstrated its willingness to collaborate with the occupation policy to perpetuate the siege and undermine reconstruction, as demonstrated particularly in the notorious plan of Robert Serry, with deliberate disregard for the suffering of the people.
+This action threatens thousands of homeless and displaced Palestinians who remain in shelters throughout the Strip, Mizher noted.
+Mizher emphasized the importance of building popular pressure to force the parties to prioritize the interests of the Palestinian people, including the UN and the Palestinian parties whose internal conflict continues to undermine reconstruction and the needed Palestinian united front to break the siege. He demanded UNRWA undo this decision and instead deliver the financial assistance to support the needs of the people, for rent and reconstruction.
+For his part, Comrade Samir Baker spoke outside the UNRWA office in Gaza, saying “We stand here today…not to beg for our rights or wait for sympathy and charity, a bag of flower or a little amount of money that does not fill the mouth of a hungry child or rebuild his destroyed home, but instead to remind them of their tasks and responsibilities that must be implemented in the service of our people.”
+Since the Nakba, Baker said, the UN has dealt with the issue of Palestine as a purely humanitarian issue and evading and ignoring the reality that it is a political issue of a colonized people under occupation. The establishment of the Zionist enemy announced from inside the UN, its engagement with the global colonial system and the cover it provides for the crimes and massacres of the occupation have posed a continuing obstacle to the liberation of our people, Baker said.
+He noted that the slow, almost nonexistent reconstruction is intentional, taking place in collusion with the ocupation, noting that the infamous Serry plan attempted to bank reconstruction on acceptance of Zionist terms and conditions.
+“We have information to indicate that UNRWA has the capacity to deal with this issue through alternate contingency plans, through the provision of an emergency budget or launching an international campaign that will highlight the responsibilities of the world – as happens every other time when there is a deficit in the UNRWA budget,” Baker said. Instead, however, the UN abandoned its legal and ethical responsibilities because it is playing a role in the international equation of pressure on our people in service of the occupation, and to turn the Palestinian people and their struggle for liberation into a struggle for a loaf of bread or an open crossing, Baker said. “Our people will fight for their rights and not auction them to states and international bodies.”
+Baker pledged that the PFLP will continue its efforts to confront those who conspire against the legitimate rights of the Palestinian people.
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

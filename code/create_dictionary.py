@@ -93,7 +93,7 @@ manifesto_df = pd.concat([mdf_primary, mdf_secondary], axis = 0)
 manifesto_df.replace(to_replace=['None', None], value=np.nan, inplace=True)
 
 # Convert dates and add year
-manifesto_df['date'] = pd.to_datetime(manifesto_df['date'])
+manifesto_df['date'] = pd.to_datetime(manifesto_df['date'], errors='coerce')
 manifesto_df['year'] = pd.to_datetime(manifesto_df['date']).dt.to_period('Y')
 
 # Add file_path column

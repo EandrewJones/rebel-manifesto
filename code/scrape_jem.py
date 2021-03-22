@@ -2,7 +2,6 @@ from requests import Session
 import requests
 import os
 import string
-#import pycld2 as cld2
 from google_trans_new import google_translator
 from dateutil.parser import parse
 from bs4 import BeautifulSoup
@@ -202,11 +201,15 @@ class SudanJemScraper(object):
         
         for i, job in enumerate(jobs):
             # Download statement
-            print('Downloading Statement: {} ...\n\tLink: {}\n\tTitle: {}'.format(i+1, job['link'], job['title']))
+            print(
+                'Downloading Statement: {} ... \
+                  \n\tLink: {}\n\tTitle: {}'.format(i+1, job['link'], job['title'])
+                  )
             try:
                 soup = self.soupify(url=job['link'])
                 statement = [p.get_text(strip=True) for p 
-                             in soup.find('div', class_='content-inner').find_all('p')]
+                             in soup.find('div',
+                                          class_='content-inner').find_all('p')]
                 paragraphs = [p for p in statement if p]
 
                 # Write file

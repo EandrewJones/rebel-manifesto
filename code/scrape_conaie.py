@@ -21,6 +21,8 @@ class EcuadorCONAIEScraper(object):
         self.space_table = str.maketrans('', '', string.whitespace)
         self.session = Session()
         
+        self.jobs = []
+        
         # Google translate key
         self.translate = translate
         if translate:
@@ -77,12 +79,16 @@ class EcuadorCONAIEScraper(object):
         path_to_file = os.path.join(self.base_dir, file_name)
         with open(path_to_file, 'w') as f:
             f.writelines("%s\n" % p for p in paragraphs) 
+            
+    def save_jobs(self):
+        """Pickles jobs to self.pkl_file"""
+        with open(self.pkl_file, 'wb') as output:
+            pickle.dump(self.jobs, output, pickle.HIGHEST_PROTOCOL)
 
     def get_statements_jobs(self) -> list:
         '''
         Iteratre through bulletin pages to get title, link, date
         '''
-        jobs = []
         
         i = 1
         next_page = True
@@ -114,19 +120,16 @@ class EcuadorCONAIEScraper(object):
                 # Document type
                 job['doc_type'] = 'Statement'
                 
-                jobs.append(job)
+                self.jobs.append(job)
             
             # update next_page and i
             next_page = soup.find('a', class_='next page-numbers') is not None
             i += 1
             
-        return jobs
-            
     def get_news_jobs(self):
         '''
         Get scraping links, titles, dates from news pages
         '''
-        jobs = []
         
         i = 1
         next_page = True
@@ -158,21 +161,21 @@ class EcuadorCONAIEScraper(object):
                 # Document type
                 job['doc_type'] = 'News'
                 
-                jobs.append(job)
+                self.jobs.append(job)
                 
             # update next_page and i
             next_page = soup.find('a', class_='next page-numbers') is not None
             i += 1
-            
-        return jobs
         
     def download_statements(self, save: bool):
         """Takes url for statement page, extracts text, and 
         saves it to the specified directory/file."""
         
         # Get articles
-        jobs = self.get_news_jobs()
-        jobs.extend(self.get_statements_jobs())
+        self.get_news_jobs()
+        self.get_statements_jobs()
+        jobs = self.jobs
+        failed_jobs = []
         
         for i, job in enumerate(jobs):
             # Download statement
@@ -180,45 +183,65 @@ class EcuadorCONAIEScraper(object):
                 'Downloading Statement: {} ... \
                   \n\tLink: {}\n\tTitle: {}'.format(i+1, job['link'], job['title'])
                   )
+            # Try loading page
             try:
                 soup = self.soupify(url=job['link'])
-                if job['doc_type'] == 'Statement':
-                    statement = [p.get_text(strip=True) for p 
-                                 in soup.find('div', class_='entry-content').find_all('p')]
-                    paragraphs = [p for p in statement if p]
-                    if self.translate:
-                        response = self.translate_to_english(contents=paragraphs)
-                        paragraphs = [t.translated_text for t in response.translations]
-                    if self.export_to_txt:
-                        self.write_file(job=job, paragraphs=paragraphs)
-                    else:
-                        job['paragraphs'] = paragraphs
-                        job['is_translated'] = False
-                    job['n_tokens'] = count_tokens(str_list=job['paragraphs'])
-                    print('...complete')  
-                elif job['doc_type'] == 'News':
-                    statement = [p.get_text(strip=True) for p 
-                                 in soup.find('div', class_='entry-content').find_all('p')]
-                    paragraphs = [p for p in statement if p]
-                    if self.translate:
-                        response = self.translate_to_english(contents=paragraphs)
-                        paragraphs = [t.translated_text for t in response.translations]
-                    if self.export_to_txt:
-                        self.write_file(job=job, paragraphs=paragraphs)
-                    else:
-                        job['paragraphs'] = paragraphs
-                        job['is_translated'] = False
-                    job['n_tokens'] = count_tokens(str_list=job['paragraphs'])
-                    print('...complete')
-                else:
-                    raise ValueError('Cannot read document of type: {}'.format(job['doc_type']))   
+            except:
+                print('Page load failed')
+                continue
+            
+            # Try reading paragraphs
+            try:
+                statement = soup.find('div', class_='entry-content').text
+                paragraphs = [s + '.' for s in statement.split('.')]
             except ValueError as err:
-                print('...Download failed!:', err)
-
-            time.sleep(5)
+                print(err)
+                print('Cannot read document of type: {}'.format(job['doc_type']))
+                print('Download Failed.')
+                failed_jobs.append(i)
+                continue
+            except AttributeError as err:
+                print(err)
+                print('Download Failed.')
+                failed_jobs.append(i)
+                continue
+            except:
+                failed_jobs.append(i)
+                continue
+            
+            # Translate
+            job['is_translated'] = False
+            if self.translate:
+                try:
+                    response = self.translate_to_english(contents=paragraphs)
+                    paragraphs = [t.translated_text for t in response.translations]
+                    job['is_translated'] = True
+                except:
+                    print('Translation failed!')
+                    pass
+                
+            # Write to text
+            if self.export_to_txt:
+                try:
+                    self.write_file(job=job, paragraphs=paragraphs)
+                except:
+                    print('Document export failed.')
+                
+            # Store paragraphs and count tokens
+            job['paragraphs'] = paragraphs
+            job['n_tokens'] = count_tokens(paragraphs)
+                    
+            # Slow down crawl a bit
+            time.sleep(1)
+            
+        # Remove failed jobs
+        if len(failed_jobs) > 0:
+            jobs = del_list_numpy(jobs, failed_jobs)
         
+        # Save
+        self.jobs = jobs
         if save:
-            save_object(obj=jobs, filename=self.pkl_file)
+            self.save_jobs()
 
             
 # ================= #
@@ -250,6 +273,10 @@ def count_tokens(str_list: list) -> int:
         count += n_tokens
     return count
 
+def del_list_numpy(l: list, id_to_del: list) -> list:
+    '''Delete items indexed by id_to_del from list l.'''
+    arr = np.array(l)
+    return list(np.delete(arr, id_to_del))
 
 # ======= #
 # Program #

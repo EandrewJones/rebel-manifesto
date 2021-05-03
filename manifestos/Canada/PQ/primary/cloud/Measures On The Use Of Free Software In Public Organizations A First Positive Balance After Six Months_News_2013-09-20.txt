@@ -1,0 +1,22 @@
+Québec - On the eve of International Free Software Day, the Minister responsible for Government Administration and President of the Treasury Board, Mr. Stéphane Bédard, draws up a first positive assessment of the measures announced by the government to increase the use of free software in public organizations.
+“The free software measures our government announced six months ago are producing tangible results. We are already in a position to offer state-of-the-art expertise to public organizations to take full advantage of the benefits of free. Other actions will follow in order to allow them to explore all possible options to make the best choices at the best costs, ”said Mr. Bédard.
+Remember that last March, the government announced eight measures, including the establishment of the Center of Expertise in Free Software (CELL). Since April 2, departments and agencies can count on the experience and diversified expertise of 20 developers and specialists who have the mandate to support and advise them in their exploration or use of free software.
+In addition to the creation of the CELL, the government announced a series of measures such as the development of flagship projects, the publication of open standards, the launch of a call for tenders for electronic mail and the evaluation of administrative mechanisms slowing down the use of free software.
+“We encourage all departments and agencies to follow suit and seek free solutions for greater flexibility in the management of their information resources. I also invite them to publicize their projects and their added value, both in terms of efficiency and in terms of Quebec&#39;s economic development, ”concluded Minister Bédard.
+STATUS OF WORK FOR THE EIGHT MEASURES ANNOUNCED IN MARCH 2013 TO INCREASE THE USE OF FREE SOFTWARE IN PUBLIC BODIES
+MEASURE 1- CREATION OF THE CELL
+The Center of Expertise in Free Software (CELL) has been operational since April 2, 2013. It has a team of 20 professionals working in the field of IT for many years and with cutting-edge expertise in the development of solutions based on on free software.
+MEASURE 2- LIST OF OPEN STANDARDS
+An interministerial committee on standardization and interoperability bringing together several public bodies was created in order to develop a list of recommended open standards, the use of which will facilitate exchanges between the information systems of ministries and bodies, while allowing the government to avoid exclusive dependence on suppliers.
+MEASURE 3- ELECTRONIC MAIL CALL FOR TENDERS
+Work on launching an open call for tenders for government email will begin in the fall of 2013.
+MEASURE 4- KEY PROJECTS
+Four flagship projects have been developed since the creation of the Center of Expertise in Free Software within different ministries, in particular a project to deploy 40 workstations with a free office suite at the Ministry of Immigration and Cultural Communities, which benefits from the contribution and expertise of CELL.
+MEASURE 5- CONSULTATION WITH THE EDUCATION NETWORK
+In the education network, CELL has produced studies and analyzes aimed at replacing the proprietary software used in certain college and university courses, in particular the use of Gimp, a free image processing software, and of ProjectLibre. , an open source project management software, which could replace Photoshop and Microsoft Project.
+MEASURE 6- ANIMATION OF A COMMUNITY OF PRACTITIONERS
+A free software governance committee bringing together several ministries and organizations has been set up to make recommendations on priority projects based on government needs and on the progress of flagship projects of the ministries concerned. .
+MEASURE 7 - ASSESSMENT OF ADMINISTRATIVE MECHANISMS HINKING THE USE OF FREE SOFTWARE IN PUBLIC ADMINISTRATION
+As part of a consultation on best contractual practices with departments and agencies as well as the information technology industry, the Secrétariat du Conseil du trésor is currently analyzing solutions to strengthen compliance with the principles of the Act. on contracts with public bodies, in particular healthy competition and fairness between suppliers.
+MEASURES 8- THE THREE GUIDES OF THE TREASURY BOARD SECRETARIAT
+Three guides on the use of free software have been published on the website of the Secrétariat du Conseil du trésor to help public bodies choose the appropriate license based on their needs and the costs associated with their use.

@@ -4,8 +4,10 @@ __pycache__/
 data/
 .env/
 logs/
+webscraping/params/
 
 # Files
 manifesto/[Bogdan_Szajkowski]_Revolutionary_and_Dissident_Mo(BookZZ.org).pdf
 notes.txt
 .*
+nohup.out

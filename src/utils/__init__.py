@@ -15,7 +15,8 @@ __all__ = [
     'save_object',
     'count_tokens',
     'del_list_numpy',
-    'clean_string'
+    'clean_string',
+    'rem_failed_jobs'
 ]
 
 
@@ -134,3 +135,9 @@ def clean_string(s: str):
     s = re.sub(r' +', ' ', s)
     s = s.strip()
     return s
+
+
+def rem_failed_jobs(jobs):
+    """Removes jobs without any paragraph"""
+    has_paragraphs = np.array(['paragraphs' in job.keys() for job in jobs])
+    return jobs[has_paragraphs]
